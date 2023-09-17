@@ -1,0 +1,14 @@
+opensea:
+  url: https://testnets-api.opensea.io/v2/chain/mumbai/contract/0x0314502e8f38be59221b95c60eefeb39fe3b5a78/nfts/0
+
+server:
+  port: 8090
+
+## ????
+proxy:
+  host: 127.0.0.1
+  port: 7890
+
+logging:
+  level:
+    com.example.demo: INFO
